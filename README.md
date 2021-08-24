@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaroofOP
+- 👋 Hi, I’m Dandoor
 - 👀 I’m interested in Learning coding
 - 🌱 I’m currently learning Nothing for now
 - 💞️ I’m looking to collaborate on Discord
